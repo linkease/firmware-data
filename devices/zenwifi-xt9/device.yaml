@@ -1,0 +1,6 @@
+name: "zenwifi-xt9"
+title: "ZenWiFi-XT9" # 设备型号
+alias: ["XT9"]
+brand: 华硕 # 设备品牌 
+arch: armv7l # 处理器平台 
+tag: ["WIFI6","2.5网口"]

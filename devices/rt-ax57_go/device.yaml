@@ -1,0 +1,6 @@
+name: "rt-ax57_go"
+title: "RT-AX57_GO" # 设备型号
+alias: ["RT-AX57_GO"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6", "MTK平台"]

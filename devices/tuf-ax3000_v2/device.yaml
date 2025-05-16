@@ -1,6 +1,6 @@
 name: "tuf-ax3000_v2"
-title: "TUF-AX3000_V2" # 设备型号
-alias: ["AX3AX3000_V2000"]
+title: "TUF GAMING 小旋风" # 设备型号
+alias: ["AX3000_V2"]
 brand: 华硕 # 设备品牌 
-arch: arm64 # 处理器平台 
+arch: armv7l # 处理器平台 
 tag: ["WIFI6","2.5网口"]

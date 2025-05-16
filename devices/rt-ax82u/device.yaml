@@ -2,5 +2,5 @@ name: "rt-ax82u"
 title: "RT-AX82U" # 设备型号
 alias: ["AX82U"]
 brand: 华硕 # 设备品牌 
-arch: arm64 # 处理器平台 
+arch: armv7l # 处理器平台 
 tag: ["WIFI6"]

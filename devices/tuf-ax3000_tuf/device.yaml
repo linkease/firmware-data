@@ -1,0 +1,6 @@
+name: "tuf-ax3000_tuf"
+title: "TUF-AX3000_TUF" # 设备型号
+alias: ["TUF-AX3000"]
+brand: 华硕 # 设备品牌 
+arch: armv7l # 处理器平台 
+tag: ["WIFI6"]

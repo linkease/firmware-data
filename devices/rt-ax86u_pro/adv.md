@@ -1,1 +1,1 @@
-RT-AX86U Pro这款产品已在我们直营店上架，欢迎大家购买：[RT-AX86U Pro koolshare直营店购买地址](https://www.baidu.com)
+📢此页面的最新固件实为次新版本，目前梅林改版固件最新版本为388.7_0，可以在[爱发电平台赞助获取](https://ifdian.net/a/sadog?tab=shop)。

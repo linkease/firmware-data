@@ -1,0 +1,6 @@
+name: "tx-ax6000"
+title: "天选路由器" # 设备型号
+alias: ["TX-AX6000"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["MTK平台", "双2.5G网口", "WIFI6"]

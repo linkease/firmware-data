@@ -1,6 +1,6 @@
-name: "gt-ax11000_pro"
-title: "GT-AX11000 Pro" # 设备型号
-alias: ["GT-AX11000"]
+name: "gt-ax11000_pro_rog"
+title: "GT-AX11000_PRO_ROG" # 设备型号
+alias: ["GT-AX11000_PRO"]
 brand: 华硕 # 设备品牌 
 arch: arm64 # 处理器平台 
 tag: ["WIFI6","2.5网口"]

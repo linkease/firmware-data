@@ -1,0 +1,6 @@
+name: "rt-be86u"
+title: "RT-BE86U" # 设备型号
+alias: ["BE86U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI7", "2.5G网口*4", "10G网口*1"]

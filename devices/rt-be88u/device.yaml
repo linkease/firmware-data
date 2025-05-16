@@ -1,0 +1,6 @@
+name: "rt-be88u"
+title: "RT-BE88U" # 设备型号
+alias: ["BE88U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI7", "2.5G网口*4", "10G网口*2"]

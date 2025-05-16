@@ -1,12 +1,14 @@
 {
     "asus_official": {
-        "gt-ac5300": 10100,
-        "gt-ax11000_pro": 10000
+        "gt-be96": 10104,
+        "rt-be88u": 10103,
+        "rt-be86u": 10102,
+        "tuf-ax4200": 10101,
+        "tx-ax6000": 10100
     },
-    "merlin":{
+    "merlin": {
+    },
+    "iStoreOS": {
 
-    },
-    "iStoreOS":{
-        
     }
 }

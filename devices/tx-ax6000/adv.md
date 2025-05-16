@@ -1,0 +1,1 @@
+📢🆕此处目前发布次新版本，需要天选路由器最新官改版本: 388_33411_koolcenter，可以在[爱发电平台赞助获取](https://ifdian.net/a/sadog?tab=shop)。

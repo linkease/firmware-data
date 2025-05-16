@@ -1,0 +1,1 @@
+1. 同步梅林固件代码386.7_2，更新日志见此：[Asuswrt-Merlin 386/NG Changelog](https://www.asuswrt-merlin.net/changelog)；

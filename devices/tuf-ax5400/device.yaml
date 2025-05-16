@@ -2,5 +2,5 @@ name: "tuf-ax5400"
 title: "TUF-AX5400" # 设备型号
 alias: ["AX5400"]
 brand: 华硕 # 设备品牌 
-arch: arm64 # 处理器平台 
+arch: armv7l # 处理器平台 
 tag: ["WIFI6"]

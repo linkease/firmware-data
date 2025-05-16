@@ -1,0 +1,6 @@
+name: "tuf-ax4200"
+title: "小旋风 Pro" # 设备型号
+alias: ["TUF-AX4200"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["双2.5G网口", "MTK平台", "WIFI6"]

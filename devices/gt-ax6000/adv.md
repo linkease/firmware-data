@@ -1,1 +1,1 @@
-广告：上[koolshare淘宝直营店](https://item.taobao.com/item.htm?&id=657792188536)购买华硕GT-AX6000路由器，有优惠!
+📢此页面的最新固件实为次新版本，目前梅林改版固件最新版本为388.7_0，可以在[爱发电平台赞助获取](https://ifdian.net/a/sadog?tab=shop)。

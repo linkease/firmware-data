@@ -1,0 +1,6 @@
+name: "tuf-ax5400_tuf"
+title: "TUF-AX5400_TUF" # 设备型号
+alias: ["AX5400"]
+brand: 华硕 # 设备品牌 
+arch: armv7l # 处理器平台 
+tag: ["WIFI6"]

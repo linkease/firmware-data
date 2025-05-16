@@ -1,0 +1,6 @@
+name: "rt-ax88u_pro"
+title: "RT-AX88U_PRO" # 设备型号
+alias: ["AX88U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["2.5网口", "WIFI6"]

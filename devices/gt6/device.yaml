@@ -1,0 +1,6 @@
+name: "gt6"
+title: "ROG魔方幻" # 设备型号
+alias: ["GT6"]
+brand: 华硕 # 设备品牌 
+arch: armv7l # 处理器平台 
+tag: ["WIFI6","2.5网口"]

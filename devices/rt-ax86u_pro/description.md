@@ -1,5 +1,5 @@
-AX5700 双频 WiFi 6 电竞路由器, PS5 兼容, 手游模式, AiProtection Pro 网络安全防护和 Instant Guard 分享安全 VPN, 先进的家长管理功能, 2.5G 网口, 专属电竞端口, Adaptive QoS, 端口转发
-新一代 WiFi 6 技术支持 WiFi 6 (802.11ax) 标准和160MHz频道带宽，无线速率高达 5700 Mbps
-手游模式通过华硕路由器APP开启手游加速模式，大幅降低手游中延时与卡顿，享有畅快的游戏体验
-更大的覆盖范围ASUS RangeBoost Plus 提升信号范围和整体覆盖范围
-网络安全战盾 搭载Trend Micro™ 支持的 AiProtection 商业级安全防护功能，WPA3无线加密协议及先进的家长控制功能，大幅提升家庭网络安全性。ASUS Instant Guard 让您一键分享安全的 VPN
+- AX5700 双频 WiFi 6 电竞路由器, PS5 兼容, 手游模式, AiProtection Pro 网络安全防护和 Instant Guard 分享安全 VPN, 先进的家长管理功能, 2.5G 网口, 专属电竞端口, Adaptive QoS, 端口转发
+- 新一代 WiFi 6 技术支持 WiFi 6 (802.11ax) 标准和160MHz频道带宽，无线速率高达 5700 Mbps
+- 手游模式通过华硕路由器APP开启手游加速模式，大幅降低手游中延时与卡顿，享有畅快的游戏体验
+- 更大的覆盖范围ASUS RangeBoost Plus 提升信号范围和整体覆盖范围
+- 网络安全战盾 搭载Trend Micro™ 支持的 AiProtection 商业级安全防护功能，WPA3无线加密协议及先进的家长控制功能，大幅提升家庭网络安全性。ASUS Instant Guard 让您一键分享安全的 VPN

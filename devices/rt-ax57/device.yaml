@@ -1,0 +1,6 @@
+name: "rt-ax57"
+title: "RT-AX57" # 设备型号
+alias: ["RT-AX57"]
+brand: 华硕 # 设备品牌 
+arch: armv7l # 处理器平台 
+tag: ["WIFI6"]
