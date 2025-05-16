@@ -1,0 +1,3 @@
+384_6436（2019年12月03日）
+同步ASUS最新GT-AX11000代码：GPL of ASUS GT-AX11000 for firmware 3.0.0.4.384.6436；
+固件内置wireguard更新至0.0.20191127版本；

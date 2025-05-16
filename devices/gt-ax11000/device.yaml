@@ -1,0 +1,6 @@
+name: "gt-ax11000"
+title: "GT-AX11000" # 设备型号
+alias: ["AX11000"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6","2.5网口"]

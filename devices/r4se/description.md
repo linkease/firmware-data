@@ -1,0 +1,1 @@
+NanoPi R4SE是R4S的另一个版本。NanoPi R4SE是搭载了瑞芯微RK3399的NanoPi R4S双千兆以太网路由器，它和R4S的区别在于增加了32GB eMMC闪存，可以用来运行操作系统。

@@ -1,0 +1,6 @@
+name: "rt-ax86u"
+title: "RT-AX86U" # 设备型号
+alias: ["AX86U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6","2.5网口"]

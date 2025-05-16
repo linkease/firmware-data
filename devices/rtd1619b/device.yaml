@@ -1,0 +1,6 @@
+name: "rtd1619b"
+title: "RTD1619B" # 设备型号
+alias: ["RTD1619B"]
+brand: Realtek # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: []

@@ -1,0 +1,15 @@
+name: t68m  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
+title: T68M  #按厂商宣传规范决定大小写
+alias: ["t68m"]
+brand: 莱茵特 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["2.5网口"]
+
+# 二期需求
+# wifi: WIFI6 # 无线协议 
+# num_lan : 4 # LAN口数量
+# num_1g: 4 # 1G接口数量 
+# num_2g5: 1 # 2.5G接口数量 
+# wireless_speed: 5700M # 无线速率 
+# usb_support: true # 是否带USB 
+# mesh_support: true # 是否支持Mesh 

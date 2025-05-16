@@ -1,0 +1,1 @@
+电犀牛R66S，CPU采用 RK3568 (Corex-A55 4核心 2.0GHz)，支持LPDDR4内存，有1个TF卡槽，2个RTL8125B 2.5G网口，2个USB3.0，电源使用DC 12V供电。

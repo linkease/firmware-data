@@ -1,0 +1,6 @@
+name: "rt-ax89x"
+title: "RT-AX89X" # 设备型号
+alias: ["AX89X"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6","万兆网口"]

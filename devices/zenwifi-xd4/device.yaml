@@ -1,0 +1,6 @@
+name: "zenwifi-xd4"
+title: "ZenWiFi-XD4" # 设备型号
+alias: ["XD4"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6"]

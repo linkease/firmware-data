@@ -1,0 +1,7 @@
+name: "gt-ac5300"
+title: "GT-AC5300" # 设备型号
+alias: ["AC5300"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI5"]
+level: 9999

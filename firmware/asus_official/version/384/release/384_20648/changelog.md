@@ -1,0 +1,7 @@
+384_20648（2018年04月13日）
+同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.20648
+
+384_20648（2018年05月18日）
+同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.20648；
+移植ROG皮肤；
+添加软件中心支持。

@@ -1,0 +1,6 @@
+name: "rt-ax92u"
+title: "RT-AX92U" # 设备型号
+alias: ["AX92U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6"]

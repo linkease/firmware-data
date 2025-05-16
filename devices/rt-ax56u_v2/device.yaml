@@ -1,0 +1,6 @@
+name: "rt-ax56u_v2"
+title: "RT-AX56U_V2" # 设备型号
+alias: ["AX56U_V2"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI6"]
