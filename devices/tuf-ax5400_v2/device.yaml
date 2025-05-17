@@ -1,6 +1,6 @@
 name: "tuf-ax5400_v2"
 title: "TUF-AX5400_V2" # 设备型号
-alias: ["AX5400"]
+alias: ["小旋风 Pro"]
 brand: 华硕 # 设备品牌 
 arch: armv7l # 处理器平台 
-tag: ["WIFI6"]
+tag: ["TUF-AX5400_V2", "WIFI6"]

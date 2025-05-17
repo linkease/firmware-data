@@ -1,0 +1,6 @@
+name: "tuf-be6500"
+title: "小旋风 Pro WiFi7" # 设备型号
+alias: ["小旋风 Pro"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI7"]

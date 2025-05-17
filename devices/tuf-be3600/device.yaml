@@ -1,0 +1,6 @@
+name: "tuf-be3600"
+title: "小旋风 WiFi7" # 设备型号
+alias: ["小旋风 WiFi7"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI7"]

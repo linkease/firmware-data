@@ -1,0 +1,1 @@
+Radxa E52C

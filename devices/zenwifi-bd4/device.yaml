@@ -1,0 +1,6 @@
+name: "zenwifi-bd4"
+title: "灵耀魔方" # 设备型号
+alias: ["灵耀魔方 BE3600"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["BE3600", "WIFI7"]
