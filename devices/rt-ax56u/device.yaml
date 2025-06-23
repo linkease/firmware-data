@@ -1,6 +1,6 @@
 name: "rt-ax56u"
 title: "RT-AX56U" # 设备型号
-alias: ["AX56U"]
+alias: ["RT-AX56U"]
 brand: 华硕 # 设备品牌 
 arch: armv7l # 处理器平台 
 tag: ["WIFI6"]

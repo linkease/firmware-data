@@ -1,6 +1,6 @@
-name: r5s  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
-title: R5S  #按厂商宣传规范决定大小写
-alias: ["r5s"]
+name: "r5s"  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
+title: "R5S"  #按厂商宣传规范决定大小写
+alias: ["r5s", "r5c"]
 brand: NanoPi # 设备品牌 
 arch: arm64 # 处理器平台 
 tag: ["高清硬解","HDMI接口","2.5网口"]

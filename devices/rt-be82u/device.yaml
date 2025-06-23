@@ -1,0 +1,6 @@
+name: "rt-be82u"
+title: "RT-BE82U" # 设备型号
+alias: ["RT-BE82U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI7", "2.5G网口*5"]

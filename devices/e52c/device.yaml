@@ -3,7 +3,7 @@ title: E52C  #按厂商宣传规范决定大小写
 alias: ["e52c"]
 brand: Radxa # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["rk3582"]
+tag: ["RK3582"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

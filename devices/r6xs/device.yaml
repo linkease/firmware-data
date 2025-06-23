@@ -1,9 +1,9 @@
-name: r66s  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
-title: R66S  #按厂商宣传规范决定大小写
-alias: ["r66s"]
+name: r6xs  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
+title: R6XS  #按厂商宣传规范决定大小写
+alias: ["r66s","r68s"]
 brand: 电犀牛 # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["2.5网口"]
+tag: ["r66s","r68s"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

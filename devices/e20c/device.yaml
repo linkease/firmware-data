@@ -1,9 +1,9 @@
-name: e20c  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
-title: E20C  #按厂商宣传规范决定大小写
+name: "e20c"  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
+title: "E20C"  #按厂商宣传规范决定大小写
 alias: ["e20c"]
 brand: Radxa # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["rk3528A"]
+tag: ["RK3528A"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

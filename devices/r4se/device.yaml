@@ -3,7 +3,7 @@ title: R4SE  #按厂商宣传规范决定大小写
 alias: ["r4se"]
 brand: NanoPi # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: []
+tag: ["RK3399"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 
