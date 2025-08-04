@@ -1,2 +1,1 @@
-OPC H68K 
-Hinlink出品的系列机型，包括H66K/H68K/H69K
+OPC Hinlink出品的系列机型，包括 H66K/H68K/H69K，三款机器通用 iStoreOS 固件。

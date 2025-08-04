@@ -1,2 +1,2 @@
-X86物理机，范围很广，可以是各种"电脑"，或者N100、J4125、N5105等小主机。
-X86虚拟机，可以是PVE、VMware ESXi、VMWare Workstation、Proxmox、iKuai爱快、UNRAID、飞牛、Hyper-V、群晖等。
+[X86物理机](https://doc.istoreos.com/zh/guide/istoreos/install_x86.html)，范围很广，可以是各种"电脑"，或者N100、J4125、N5105等小主机。
+X86虚拟机，可以是[PVE](https://doc.istoreos.com/zh/guide/istoreos/install_pve.html)、[ESXI](https://doc.istoreos.com/zh/guide/istoreos/install_esxi_8.html)、[VMWare Workstation](https://doc.istoreos.com/zh/guide/istoreos/install_vmware.html)、[iKuai](https://doc.istoreos.com/zh/guide/istoreos/install_ikuai.html)、[UNRAID](https://doc.istoreos.com/zh/guide/istoreos/install_unraid.html)、[飞牛](https://doc.istoreos.com/zh/guide/istoreos/install_fnos.html)、[Hyper-V](https://doc.istoreos.com/zh/guide/istoreos/install_hyperv.html)、[群晖](https://doc.istoreos.com/zh/guide/istoreos/install_synology.html)等。

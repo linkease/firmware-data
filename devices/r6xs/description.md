@@ -1,1 +1,1 @@
-电犀牛R6xs，包含R66s和R68s，R68s/R66s 通用 iStoreOS 固件。
+电犀牛R6XS，包含R66S和R68S，R68S/R66S 通用 iStoreOS 固件。

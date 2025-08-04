@@ -1,0 +1,1 @@
+Raspberry Pi 5 是树莓派基金会推出的最新一代微型计算机，采用64位四核Arm Cortex-A76处理器（2.4GHz），性能较上一代提升2-3倍，并配备VideoCore VII GPU、双4K HDMI输出、PCIe 2.0接口等先进功能。

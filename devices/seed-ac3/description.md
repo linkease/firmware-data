@@ -1,0 +1,1 @@
+BeeconMini SEED AC3，9 网口（2.5G ）多系统 AC 路由，2G 大内存。

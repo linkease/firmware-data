@@ -3,7 +3,7 @@ title: R2S  #按厂商宣传规范决定大小写
 alias: ["r2s"]
 brand: NanoPi # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["RK3328"]
+tag: ["R2C","RK3328"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

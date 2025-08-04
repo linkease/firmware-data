@@ -1,7 +1,7 @@
-name: zx3000  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
-title: ZX3000  #按厂商宣传规范决定大小写
+name: "zx3000"  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
+title: "ZX3000"  #按厂商宣传规范决定大小写
 alias: ["zx3000"]
-brand: ZX # 设备品牌 
+brand: "ZX" # 设备品牌 
 arch: arm64 # 处理器平台 
 tag: ["MT7981BA","AX3000","多SSID"]
 

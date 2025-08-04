@@ -3,7 +3,7 @@ title: "R5S"  #按厂商宣传规范决定大小写
 alias: ["r5s", "r5c"]
 brand: NanoPi # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["高清硬解","HDMI接口","2.5网口"]
+tag: ["R5C","高清硬解","HDMI接口","2.5G网口"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

@@ -3,7 +3,7 @@ title: R66S  #按厂商宣传规范决定大小写
 alias: ["r66s"]
 brand: 电犀牛 # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["2.5网口"]
+tag: ["2.5G网口"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

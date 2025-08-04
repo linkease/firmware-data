@@ -1,0 +1,1 @@
+BeeconMini SEED AC1，7 网口多系统 AC 路由，支持 2.5G SFP。

@@ -3,7 +3,7 @@ title: h88k  #按厂商宣传规范决定大小写
 alias: ["h88k"]
 brand: Hinlink # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["2.5网口","HDMI接口","高清硬解"]
+tag: ["2.5G网口","HDMI接口","高清硬解"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

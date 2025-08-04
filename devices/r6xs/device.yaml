@@ -3,7 +3,7 @@ title: R6XS  #按厂商宣传规范决定大小写
 alias: ["r66s","r68s"]
 brand: 电犀牛 # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["r66s","r68s"]
+tag: ["RK3568","R66S","R68S"]
 
 # 二期需求
 # wifi: WIFI6 # 无线协议 

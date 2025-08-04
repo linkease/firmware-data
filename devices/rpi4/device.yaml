@@ -1,5 +1,5 @@
 name: rpi4  # 设备型号，firmware/{固件品牌}/version/{大版本}/release/{小版本}/devices/{设备name}/中的{设备name}文件夹名称与此关联
-title: RPI4  #按厂商宣传规范决定大小写
+title: 树莓派 4  #按厂商宣传规范决定大小写
 alias: ["rpi4"]
 brand: RaspberryPi # 设备品牌 
 arch: arm64 # 处理器平台 
