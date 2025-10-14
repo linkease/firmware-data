@@ -1,6 +1,6 @@
-TUF Gaming AX3000 V2 Dual Band WiFi 6 Gaming Router with Mobile Game Mode, 3 steps port forwarding, 2.5Gbps port, AiMesh for mesh WiFi, AiProtection Pro network security
-Ultrafast WiFi 6 - Enjoy speeds up to 3000 Mbps and 4X network efficiency with OFDMA and 160 MHz channels.
-True Multi-Gigabit wired speeds - Aggregated 2 Gigabit LAN connections, wired 2.5Gbps port and WiFi 6.
-Easy Port Forwarding in 3 Steps - Open NAT makes port forwarding simple, eliminating frustrating and complicated manual configuration.
-ASUS AiMesh Support – Create a flexible, seamless whole-home mesh network with AiMesh-compatible routers.
-Tested Durability and Stable Operation - TUF Gaming AX3000 V2 is built to be durable and undergoes verified testing to ensure reliable, stable operation.
+- TUF Gaming AX3000 V2 双频 WiFi 6 电竞路由器，配备移动游戏模式、三步端口转发、2.5Gbps 端口、AiMesh Mesh 网状 WiFi 和 AiProtection Pro 网络安全
+- 超快 WiFi 6 - 享受高达 3000 Mbps 的速度和 4 倍网络效率，配备 OFDMA 和 160 MHz 信道。
+- 真正的多千兆有线速度 - 聚合 2 个千兆 LAN 连接、2.5Gbps 有线端口和 WiFi 6。
+- 三步轻松端口转发 - Open NAT 使端口转发变得简单，免除了繁琐的手动配置。
+- 华硕 AiMesh 支持 - 使用兼容 AiMesh 的路由器，打造灵活、无缝的全屋 Mesh 网络。
+- 经测试的耐用性和稳定运行 - TUF Gaming AX3000 V2 坚固耐用，并经过验证测试，确保可靠、稳定的运行。

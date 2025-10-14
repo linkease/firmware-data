@@ -1,5 +1,5 @@
 name: "tuf-ax3000_v2_tuf"
-title: "小旋风" # 设备型号
+title: "TUF-AX3000_V2_TUF" # 设备型号
 alias: ["小旋风"]
 brand: 华硕 # 设备品牌 
 arch: armv7l # 处理器平台 
