@@ -1,6 +1,6 @@
 name: "zenwifi_bd4"
-title: "灵耀魔方" # 设备型号
-alias: ["灵耀魔方"]
+title: "灵耀魔方 BD4" # 设备型号
+alias: ["灵耀魔方 BD4 "]
 brand: 华硕 # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["BE3600", "WIFI7"]
+tag: ["BE3600", "WIFI7", "高通"]

@@ -1,0 +1,6 @@
+name: "gt-axe11000"
+title: "GT-AXE11000(海外机型)" # 设备型号
+alias: ["GT-AXE11000"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["博通", "2.5G网口", "WIFI6E"]

@@ -1,0 +1,6 @@
+name: "gt-ac2900_rog"
+title: "GT-AC2900_ROG" # 设备型号
+alias: ["GT-AC2900_ROG"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI5"]

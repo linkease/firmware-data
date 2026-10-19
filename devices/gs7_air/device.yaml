@@ -1,0 +1,6 @@
+name: "gs7_air"
+title: "ROG 魔盒 Air" # 设备型号
+alias: ["ROG 魔盒 Air"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["2.5G网口*5","WIFI7","MTK7987"]

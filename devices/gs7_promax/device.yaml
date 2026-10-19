@@ -1,0 +1,6 @@
+name: "gs7_promax"
+title: "ROG 魔盒ProMax" # 设备型号
+alias: ["ROG 魔盒ProMax"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["10G网口*2","WIFI7","博通"]

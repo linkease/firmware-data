@@ -1,0 +1,6 @@
+name: "rt-ac88u"
+title: "RT-AC88U" # 设备型号
+alias: ["RT-AC88U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI5"]

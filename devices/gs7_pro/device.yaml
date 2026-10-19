@@ -1,0 +1,6 @@
+name: "gs7_pro"
+title: "ROG 魔盒Pro" # 设备型号
+alias: ["ROG 魔盒Pro"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["2.5G网口*8","WIFI7","博通"]

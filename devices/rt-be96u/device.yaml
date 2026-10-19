@@ -1,6 +1,6 @@
-name: "gt-be96"
-title: "GT-BE96" # 设备型号
-alias: ["八爪鱼7"]
+name: "rt-be96u"
+title: "RT-BE96U(海外机型)" # 设备型号
+alias: ["RT-BE96U"]
 brand: 华硕 # 设备品牌 
 arch: arm64 # 处理器平台 
-tag: ["GT-BE96", "双10G网口", "WIFI7"]
+tag: ["博通", "双10G网口", "WIFI7"]

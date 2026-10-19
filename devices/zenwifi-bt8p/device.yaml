@@ -1,0 +1,6 @@
+name: "zenwifi-bt8p"
+title: "灵耀魔方 Pro BE9400（BT8P）" # 设备型号
+alias: ["BE9400（BT8P）"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["2.5G网口*2","WIFI7","MTK"]

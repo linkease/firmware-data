@@ -1,0 +1,6 @@
+name: "gs7_x"
+title: "ROG 魔盒 X" # 设备型号
+alias: ["ROG 魔盒 X"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["10G网口*1","WIFI7","MTK"]

@@ -1,0 +1,6 @@
+name: "gt-be98"
+title: "GT-BE98(海外机型)" # 设备型号
+alias: ["GT-BE98"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["博通", "双10G网口", "WIFI7"]

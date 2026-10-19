@@ -1,0 +1,6 @@
+name: "rt-ax58u_v2"
+title: "RT-AX58U_V2(海外机型)" # 设备型号
+alias: ["RT-AX58U_V2"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["博通", "WIFI6"]

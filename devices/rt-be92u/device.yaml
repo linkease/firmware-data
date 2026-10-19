@@ -1,0 +1,6 @@
+name: "rt-be92u"
+title: "RT-BE92U(海外机型)" # 设备型号
+alias: ["RT-BE92U"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["博通", "10G网口", "WIFI7"]

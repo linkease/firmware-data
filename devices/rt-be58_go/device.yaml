@@ -1,0 +1,6 @@
+name: "rt-be58_go"
+title: "RT-BE58_GO" # 设备型号
+alias: ["RT-BE58 GO"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["WIFI7", "2.5G网口"]

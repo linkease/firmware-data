@@ -1,0 +1,6 @@
+name: "zenwifi-et8"
+title: "ZenWiFi-ET8/RT-AXE95Q(海外机型)" # 设备型号
+alias: ["ZenWiFi-ET8"]
+brand: 华硕 # 设备品牌 
+arch: arm64 # 处理器平台 
+tag: ["博通", "2.5G网口", "WIFI6E"]
